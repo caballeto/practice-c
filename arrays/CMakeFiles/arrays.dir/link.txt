@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/arrays.dir/main.c.o CMakeFiles/arrays.dir/array.c.o  -o arrays 

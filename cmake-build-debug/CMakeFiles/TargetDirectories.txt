@@ -1,0 +1,5 @@
+/home/caballeto/practice-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/caballeto/practice-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/caballeto/practice-c/cmake-build-debug/arrays/CMakeFiles/rebuild_cache.dir
+/home/caballeto/practice-c/cmake-build-debug/arrays/CMakeFiles/main.dir
+/home/caballeto/practice-c/cmake-build-debug/arrays/CMakeFiles/edit_cache.dir

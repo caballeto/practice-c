@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caballeto/practice-c/arrays/array.c
+array.h
+/home/caballeto/practice-c/arrays/array.h
+
+/home/caballeto/practice-c/arrays/array.h
+
+/home/caballeto/practice-c/arrays/main.c
+stdio.h
+-
+stdlib.h
+-
+
